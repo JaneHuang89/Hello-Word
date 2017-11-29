@@ -1,0 +1,10 @@
+[16:12:47:256] [INFO] - utils.Log.info(Log.java:21) - utils.ConfigUtils : get the config fileE:\code\Testselenium\src\main\resources\config.properties
+[16:12:47:269] [INFO] - utils.Log.info(Log.java:21) - utils.DriverFactory : IEDriverserver
+[16:15:35:144] [INFO] - utils.Log.info(Log.java:21) - utils.ConfigUtils : get the config fileE:\code\Testselenium\src\main\resources\config.properties
+[16:15:35:147] [INFO] - utils.Log.info(Log.java:21) - utils.DriverFactory : IEDriverserver
+[16:20:59:090] [INFO] - utils.Log.info(Log.java:21) - utils.ConfigUtils : get the config fileE:\code\Testselenium\src\main\resources\config.properties
+[16:20:59:093] [INFO] - utils.Log.info(Log.java:21) - utils.DriverFactory : IEDriverserver
+[16:22:18:668] [INFO] - utils.Log.info(Log.java:21) - utils.ConfigUtils : get the config fileE:\code\Testselenium\src\main\resources\config.properties
+[16:22:18:684] [INFO] - utils.Log.info(Log.java:21) - utils.DriverFactory : chrome driver path is webDriver\chromedriver.exe 
+[16:24:11:196] [INFO] - utils.Log.info(Log.java:21) - utils.ConfigUtils : get the config fileE:\code\Testselenium\src\main\resources\config.properties
+[16:24:11:196] [INFO] - utils.Log.info(Log.java:21) - utils.DriverFactory : chrome driver path is webDriver\chromedriver.exe 
